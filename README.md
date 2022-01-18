@@ -13,7 +13,7 @@ Thanks to the [Shaun/The Net Ninja](https://github.com/iamshaunjp) to guide this
 This Feedback app was built on top of Svelte + Vite.
 
 
-To test this website locally, you need to have [Node.js](https://nodejs.org/en/) installed on your local machine. Then, kindly donwload the zip file of the source code. After extract the folder, open the terminal and type
+To test this website locally, you need to have [Node.js](https://nodejs.org/en/) installed on your local machine. Then, kindly download the zip file of the source code. After extract the folder, open the terminal and type
 
 ```Shell
 	npm install
