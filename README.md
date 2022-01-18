@@ -1,4 +1,8 @@
-# Polls Ninja App 🗳🤏
+# Polls Ninja App 🗳🤏     
+
+![Polls Ninja App 1](banners/banner1.png)      
+
+![Polls Ninja App 2](banners/banner2.png)       
 
 From this Polls Ninja App, user can make two option and poll or vote one of it. The amount of poll will be updated after user click to poll. However, it is only work in client side, which is not integration with any backend solution.
 
